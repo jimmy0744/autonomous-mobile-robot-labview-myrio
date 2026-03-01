@@ -97,3 +97,8 @@ Encoder & Gyroscope Feedback → Closed-Loop Correction
 ---
 
 ## 📂 Project Structure
+- code/ # LabVIEW project files and control programs
+- Final Report on Mechatronic System Integration.pdf
+- README.md
+- LICENSE
+- .gitignore
